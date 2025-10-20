@@ -1,0 +1,1 @@
+﻿USE Northwnd INSERT INTO [Order Details] (OrderID, ProductID, Quantity) VALUES (10248, 14, 10)
