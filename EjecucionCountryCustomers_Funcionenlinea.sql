@@ -1,1 +1,0 @@
-﻿SELECT * FROM dbo.CountryCustomers2('Mexico')
