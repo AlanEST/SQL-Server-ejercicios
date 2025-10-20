@@ -1,1 +1,0 @@
-﻿SELECT ProductId, ProductName, UnitPrice, dbo.CalculoIVA (UnitPrice) AS IVA FROM Products   -- dbo.Nombre Función (Parámetros de entrada)
